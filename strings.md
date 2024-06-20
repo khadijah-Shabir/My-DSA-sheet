@@ -7,4 +7,5 @@
 | 5   | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 6   | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 7   | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 8  | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
