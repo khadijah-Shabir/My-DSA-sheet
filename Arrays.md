@@ -54,3 +54,5 @@
 | 52  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 53  | [Baseball Game](https://leetcode.com/problems/baseball-game/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 54  | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 55  | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 56  | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
