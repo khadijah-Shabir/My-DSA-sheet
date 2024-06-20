@@ -46,4 +46,4 @@
 | 44  | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 45  | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 46  | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
-| 47  | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ![Medium](https://img.sh
+| 47  | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ![Medium](https://img.sh)|
