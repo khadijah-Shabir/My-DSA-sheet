@@ -47,3 +47,10 @@
 | 45  | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 46  | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 47  | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 48  | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 49  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 50  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-red) |
+| 51  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 52  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 53  | [Baseball Game](https://leetcode.com/problems/baseball-game/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 54  | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
