@@ -8,4 +8,5 @@
 | 6   | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 7   | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 8  | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 9   | [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
