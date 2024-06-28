@@ -6,6 +6,9 @@
 | 4  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 5  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 6  | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 7 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+
+
 
 
 
