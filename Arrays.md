@@ -56,4 +56,8 @@
 | 54  | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 55  | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 56  | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
-| 65 | [Height Checker](https://leetcode.com/problems/height-checker/)| ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 57 | [Height Checker](https://leetcode.com/problems/height-checker/)| ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 58 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 59 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+
+
