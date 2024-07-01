@@ -60,6 +60,7 @@
 | 58 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 59 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 60 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 61| [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
 
 
