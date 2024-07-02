@@ -12,6 +12,7 @@
 | 10| [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 11| [394. Decode String](https://leetcode.com/problems/decode-string/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | 12  | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| 12  | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 
 
