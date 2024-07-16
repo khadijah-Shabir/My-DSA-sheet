@@ -12,4 +12,5 @@
 | 10  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 11  | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 12  | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 13  | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
