@@ -9,4 +9,7 @@
 | 7   | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 8  | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | 9   | [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 10  | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 11  | [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| 12  | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
